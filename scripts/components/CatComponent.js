@@ -11,3 +11,8 @@ module.exports = React.createClass({
 		);
 	}
 })
+
+var target = document.getElementById('app');
+
+ReactDOM.render(
+	);
